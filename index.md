@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Eric Santos - Cybersecurity Portfolio
+title: Eric Santos's Portfolio
 ---
 
 # 👋 Welcome
 
-Hi! I'm Eric — a cybersecurity enthusiast focused on SOC analysis, penetration testing, and network engineering.
+Hi! I'm Eric — a cybersecurity enthusiast focused on Network and SOC analysis, penetration testing.
 
 Check out my work below and follow me on [GitHub](https://github.com/YOUR-USERNAME).
 
