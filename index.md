@@ -1,17 +1,5 @@
----
-layout: default
-title: Eric Santos's Portfolio
----
+# Welcome to My Cybersecurity Portfolio
 
-# 👋 Welcome
+Hi, I’m Eric! I’m training to become a SOC analyst and penetration tester. This site will document my journey — from setting up tools like Kali Linux to analyzing traffic, writing Python scripts, and solving challenges.
 
-Hello there, welcome to my ! — a cybersecurity enthusiast focused on Network SOC analysis, penetration testing.
-
-Check out my work below and follow me on [GitHub](https://github.com/YOUR-USERNAME).
-
-## 📁 Projects
-- [SOC Analysis: Detecting Brute Force in Splunk](./projects/soc-splunk)
-- [Pentest Report: TryHackMe XSS Lab](./projects/pentest-xss)
-- [Network Automation: Python VLAN Script](./projects/net-vlan-script)
-
-## 📄 [Download My Resume](./files/eric_resume.pdf)
+More coming soon. Check out my setup guide below!
